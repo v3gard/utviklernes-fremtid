@@ -1,0 +1,25 @@
+Craft app icons
+
+The original app icons are offered under MIT OR Apache-2.0. These copies are
+distributed under MIT; the corresponding license and copyright notice are in
+the adjacent <app>-LICENSE-MIT.txt files.
+
+PhotoCraft: original artwork by the project owner.
+https://github.com/storytold/photocraft/blob/6cb32d2759dda4b446bc3f19be19f50e799b4d03/assets/app-icon/photocraft-1024.png
+https://github.com/storytold/photocraft/blob/6cb32d2759dda4b446bc3f19be19f50e799b4d03/ATTRIBUTION.md
+
+WordCraft: original artwork by WordCraft contributors; placeholder icon.
+https://github.com/storytold/wordcraft/blob/4b0d39959968a34e462cb53099e76fb108d0e96f/assets/app-icon/wordcraft-1024.png
+https://github.com/storytold/wordcraft/blob/4b0d39959968a34e462cb53099e76fb108d0e96f/ATTRIBUTION.md
+
+GridCraft: original artwork by GridCraft contributors; placeholder icon.
+https://github.com/storytold/gridcraft/blob/2c58c769141f1d735623671c223548731669aa43/assets/app-icon/gridcraft-1024.png
+https://github.com/storytold/gridcraft/blob/2c58c769141f1d735623671c223548731669aa43/ATTRIBUTION.md
+
+CADCraft: original artwork by CADCraft contributors.
+https://github.com/storytold/cadcraft/blob/909af5e38946580dfdcc1f3fc2b23ff273149265/assets/app-icon/cadcraft-1024.png
+https://github.com/storytold/cadcraft/blob/909af5e38946580dfdcc1f3fc2b23ff273149265/ATTRIBUTION.md
+
+FigCraft: original artwork by the project owner.
+https://github.com/storytold/figcraft/blob/8a7ebc2484a6d64d80a13c19c18ffb814325e347/assets/app-icon/figcraft-1024.png
+https://github.com/storytold/figcraft/blob/8a7ebc2484a6d64d80a13c19c18ffb814325e347/ATTRIBUTION.md

@@ -1,0 +1,17 @@
+{
+  "name": "utviklerens.framtid",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "slidev slides.md",
+    "build": "slidev build slides.md --without-notes",
+    "export:pdf": "slidev export slides.md"
+  },
+  "dependencies": {
+    "@fontsource/geist": "^5.3.0",
+    "@fontsource/spectral": "^5.3.0",
+    "@slidev/cli": "^53.1.0",
+    "@slidev/theme-default": "latest",
+    "vue": "^3.5.33"
+  }
+}

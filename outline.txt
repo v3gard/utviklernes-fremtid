@@ -1,0 +1,162 @@
+# Tittel: Utviklerens fremtid
+
+// Innledningen skal vise et cover-bilde: `images/title.webp`
+
+Innledning: De siste to-tre årene så har vi sett begynnelsen på et
+paradigmeskifte i flere vitenskapelige fag, inkludert vårt. Jeg tenkte derfor å
+dele noen av mine tanker om hva det kan bety for fremtidens utviklere, eller
+skal jeg heller si konsulenter, for dette vil nok også ramme flere arbeidsgrupper.
+
+# Slide 1
+
+Fortell om dagens situasjon basert på innlegg på Reddit fra amerikansk perspektiv.
+
+## Utviklere
+
+Vis bildekarusell fra `images/quotes/developer/*`
+
+## UX
+
+Vis bildekarusell fra `images/quotes/ux/*`
+
+# Slide 2
+
+Hvis vi kikker i mediene, så ser det heller ikke bra ut.
+
+## Få jobber
+
+Vis bildekarusell fra `images/news_articles/few_jobs/*`
+
+## Oppsigelser og sluttpakker
+
+Vis bildekarusell fra `images/news_articles/layoffs/*`
+
+Det ser ganske dystert ut.
+
+# Slide 3
+
+Fortell om en mann på 27 år som vurderer veien videre livere spør om råd om han skal satse på IT eller helse. Bildet viser spørsmålet hans.
+
+Vis bilder fra `news_articles/layoffs/*`
+
+# Slide 4
+
+Vis bilde: `grim_reaper.webp`
+
+# Slide 5
+
+Mange firma har de siste 40 årene tjent gode penger på å selge softwarelisenser.
+
+Enkelte opplever nå at entusiaster bruker AI for å decompile programmene de har laget, og re-implementere dem med som ny kildekode.
+
+Vis til ArtCraft som har laget kloner for:
+* Adobe-pakken (Photoshop -> PhotoCraft)
+* Office-pakken (Word -> WordCraft, Excel -> GridCraft)
+* Autodesk-software (AutoCad -> CADCraft)
+* Figma (Figma -> FigCraft)
+
+# Slide 6
+
+Vis et eksempel på hvordan decompiling med AI virker
+
+// Her skal jeg ha en figur med fire bokser hvor hvert av punktene representerer en boks. EN gjennomgående pil mellom boksene illustrerer tidsretningen.
+
+* Kjørbar fil med kompilerte biblioteker (.exe og .dll-filer)
+* Analyse med AI
+* Rekonstruert kildekode (typisk med Rust)
+* Ny kjørbar fil
+
+# Slide 7
+
+Tittel: Mitt perspektiv
+// Nå er vi ferdige med å male bildet av det som har skjedd. Fremover kommer mine egne tanker om hva som vil skje videre.
+
+* Er jeg bekymret? Nei
+* La meg fortelle hvorfor: Min vei til konsulentyrket
+
+## Min vei til konsulentyrket
+
+// Her skal jeg ha et tilleggsnarrativ med upskilling-grafikk (lignende Fallout 2 som viser at jeg over tid investerer i skills som "IT", "Programmering", "Linux", "Soft skills" etc.). Denne skal hele tiden oppdatere seg med nye ferdigheter etterhvert som jeg beveger meg gjennom punktene under. Dette skal være en grafisk komponent som ligger til høyre i presentasjonen. Når jeg presenterer hvert år, skal det dukke opp en "toast" i nede høyre hjørne som viser den aktuelle skillen læres eller oppgraderes.
+
+
+* 1990: Jeg begynte med IT fra svært ung alder. Når jeg var 4 år hadde vi både IBM 386 PC og Commodore Amiga 500. Jeg startet med Workbench 1.3 og Windows 3.1. Min 7 år eldre bror lærte meg det grunnleggende.
+* Jeg lærte tidlig å bli generalist: floppy-diskene var ikke kompatible på tvers av disse maskinene, men jeg koste meg med `Lotus Turbo Challenge 2` på Amiga og `Wolfenstein 3D` på PC.
+* 1996: Jeg lærte også at jeg rundt 10-års-alderen kunne mer om IT enn mange voksne.
+* Jeg var, og fremdeles er, IT-support for familie, naboer og venner. Dette kjenner nok de fleste av oss igjen 
+
+* Jeg ble etterhvert nysgjerrig på hvorfor floppy-diskene ikke var kompatible, og fant ut at man kunne bruke verktøy som `edit` for å kikke på batch filer og exe-filer. Batch-filene var lesbare mens exe-filene inneholdt bare rare symboler. Redigerte jeg exe-filene så slutten den å virke.
+* QBasic kunne brukes for å lage enkle animasjoner, og ble mitt første programmeringsspråk.
+* Når Windows 95 kom, inkluderte det Internet Explorer. Dette var mitt første møte med HTML-filer og Javascript. Jeg hadde på dette tidspunktet egen hjemmeside på Geocities og lærte HTML og Javascript fra en gul bok jeg kjøpte på Narvesen.
+* Jeg brukte tid på IRC og spilte Age of Empires med venner over internett og Duke Nukem 3D på LAN (og lærte da indirekte TCP/IP routing og datakommunikasjon). JEg laget custom kart til Duke Nukem 3d av kjente bygg som skolegården via editoren Build: https://wiki.eduke32.com/wiki/Build (og fikk samtidig grunnleggende skills i både "teknisk tegning" og "arkitektur")
+* Jeg og vennene mine dro på LAN party til hverandre i helgene.
+* 2002: Når jeg var 16 kjøpte jeg en programmeringsbok som jeg enda har: "Delphi Made Simple" (bruk bildet fra `images/delphi_made_simple.jpg`. Dette brukte jeg sammen med Borland Delphi for å lage Windows-programmer og TurboPascal for å lage CLI-programmer.
+* 2004: På samme tid møtte jeg min kone, og hun lærte meg soft skills og presentasjonsteknikk, som har jeg hatt ekstremt god nytte av i jobbsammenheng.
+* 2006: Videre på universitetet i 2006 studerte jeg til "Bachelor - Dataingeniør".
+  * Lærte grunnleggende ingeniørferdigheter, gjennomføring og presentasjon av gruppearbeid, bruk av IT i organisasjoner.
+  * På dette tidspunktet kunne jeg også programmere, så jeg valgte å spesialisere meg videre innen for nettverksdrift fremfor datateknikk. Dette var før `devops` var et begrep, men i etterpåklokskapens tenker jeg dette var svært nyttig siden det forventes i dag at cloud-utviklere kan drift i tillegg til programmering.
+  * 2011: På mastergraden (Sivilingeniør - IKT) spesialiserte jeg meg videre innenfor IT-sikkerhet, og dette var før `devSecOps` var et begrep, men det har også vært nyttig senere.
+* De neste 5 årene jobbet jeg i oljebransjen med datalogging. Lærte at det hele tiden var omkringliggende problemer som måtte løses som ingen fortalte meg. Problemer ble løst i prosjekter. Lærte meg skills som olje&gass-domene, akseptansetesting, compliance osv. Upskillet eksisterende skills i TCP/IP, Windows-servere osv.
+* De neste 3 årene jobbet jeg i trafikk/transport-bransjen med SCADA-systemer, nettverkskommunikasjon (oppsett av redundante svitsjer) og videoovervåkning. Upskillet videre på teknisk ledelse og prosjektleveranser.
+* 2020: Begynte å jobbe i Webstep, og har siden 2021 spesialisert meg innenfor Azure, C# og React - men fremdeles som generalist.
+
+# Slide 8
+
+Hvorfor sier jeg alt dette?
+
+Når ChatGPT først kom i 2022 (heretter kjent som LLMer), så var allerede arbeidsoppgavene mine fordelt over områder som:
+ * koding
+ * testing
+ * holde seg oppdatert på faget 
+ * code review
+ * support
+ * administrasjon
+ * infrastructure-as-code
+ * azure
+ * devops
+ * compliance 
+ * samhandling med andre dev team
+ * holde presentasjoner for stakeholdere
+ * domenekunnskap
+ * ticket management
+
+Til å begynne med var LLMer en nyttig autocomplete-assistent som fullførte koden jeg holdt på å skrive. Det er først siste året det har blitt såpass kraftig at vi nesten utelukkende bruker AI til å programmere
+
+// * Vis et stolpediagram her, hvor hver av disse arbeidsoppgavene er en stolpe
+// * LLM har overtatt koding og testing, og til dels code review - men det andre bruker jeg fremdeles egne skills til.
+
+*  
+
+# Slide 9
+
+// Denne sliden skal fortelle hvordan teamet mitt fungerer i praksis i det daglige
+// * Vi bruker GitHub Enterprise
+// * Vi har laget en egen team-skill (som er instruert til å arbeide slik vi ønsker).
+// * Vi bruker Github Projects. Vi bruker mye tid på å lage godt beskrevne issues med utvetydige akseptansekriterier. Det er kun team-godkjente issues som merkes som "ready" i utviklingsflyten vår.
+// * Når vi bruker team-skillen, skriver vi typisk `/teamskill {url-til-issue}`
+// * Det er ikke bare de med utviklerbakgrunn som jobber slik. Vi får med oss UX-designeren vår også, og gir opplæring hvor det er nødvendig.
+
+# Slide 10
+LLMer gjør det mulig for å oss å:
+* Lage design mockups (vi trenger ikke figma. vi kan bare be Copilot om å lage ulike design fra eksisterende kode)
+* Lage bruk og kast kode (vi har migrert fra Azure DevOps til GitHub uten større problemer ved å AI-generere migreringsscript)
+* Hvis vi er usikre på hvilket design vi har lyst å gå videre med, mocker vi opp ulike varianter og har "show & tell" på neste standup-møte
+* Lage software for hobbybruk hvor vi har et spesifikt behov.
+
+# Slide 11 - Refleksjon
+
+* Det vil nok i en overgangsfase være vanskeligere for juniorer å begynne i dette faget. Men de får samtidig et nytt perspektiv på hvordan man kan skrive kode som vi seniorer ikke har hatt.
+* Kundene våre ønsker noen som tar eierskap til forretningsproblemene deres. Om vi får et nytt verktøy i verktøykassa vår, så er det bare til vår fordel.
+* Konsulentrollen er i endring:
+  * Jeg tror det blir mindre behov for rene design-roller og rene frontend-roller. Frontendutvikler og UX-designer slås sammen.
+  * Backendutviklere trenger ikke å være redd for å skrive CSS lenger. Det er enklere enn før å kalle seg fullstack-utvikler.
+* En LLM kan fremdeles ikke gjøre alt. Det er enda lurt å investere tid i grunnleggende skills
+* Det jeg liker minst med dette er at det mest sannsynlig ikke vil være kostnadseffektivt å skrive kode for hånd lenger.
+* Det er fremdeles bruk for folk som kan tenke selv, spesielt oss som  er kompetente teknologer med interesse for faget, og vilje og evne til å bruke AI-verktøy tungt i jobben
+* Det er fremdeles behov for teknologer som  strategiske IT-rådgivere for hvordan bedrifter kan bruke AI til å drive verdiskaping innenfor styringsprinsippene som bedriften har. Iallefall de neste fem til ti årene.
+* De av oss som sitter med en følelse av apati ang. det å ikke skrive kode selv lenger, bør vurdere å oppsøke spesialist-roller hvor AI av ulike grunner ikke kan gjøre (eller får lov til) å gjøre arbeidet.
+
+# Slide 12 - Konklusjon
+* Faget vårt er i endring.
+* Seniorkonsulenten er trygg dersom hen er endringsvillig.
+* Utviklere må akseptere at LLMer tar over kodingen, og lære seg ekstra skills
+* Designere bør med fordel ta på seg flere roller (som frontendutvikling, coaching osv)
